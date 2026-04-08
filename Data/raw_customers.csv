@@ -1,0 +1,13 @@
+customer_id,customer_name,email,city,country,age,signup_date
+CUST101,Alice Johnson,alice@email.com,New York,USA,29,2023-03-15
+CUST102,Bob Smith,bob@email.com,London,UK,35,2023-04-20
+CUST103,Carol White,,Chicago,USA,42,2023-05-10
+CUST104,David Lee,david@email.com,Sydney,Australia,28,2023-06-01
+CUST105,Eva Brown,eva@email.com,New York,USA,,2023-06-15
+CUST106,Frank Miller,frank@email.com,London,UK,31,2023-07-01
+CUST107,Grace Wilson,grace@email.com,,Canada,26,2023-07-20
+CUST108,Henry Moore,henry@email.com,Chicago,USA,45,2023-08-05
+CUST109,Isla Taylor,isla@email.com,Sydney,Australia,33,2023-08-19
+CUST110,Jack Davis,jack@email.com,New York,USA,38,2023-09-01
+CUST111,Karen Clark,karen@email.com,London,UK,27,2023-09-15
+CUST101,Alice Johnson,alice@email.com,New York,USA,29,2023-03-15

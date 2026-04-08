@@ -1,0 +1,7 @@
+product_id,product_name,category,sub_category,brand,unit_price
+PROD01,Samsung Galaxy S23,Electronics,Phones,Samsung,500
+PROD02,Dell XPS Laptop,Electronics,Laptops,Dell,1200
+PROD03,iPad Mini,,Tablets,Apple,300
+PROD04,Sony Headphones,Electronics,Audio,Sony,800
+PROD05,MacBook Pro,Electronics,Laptops,Apple,1500
+PROD02,Dell XPS Laptop,Electronics,Laptops,Dell,1200
